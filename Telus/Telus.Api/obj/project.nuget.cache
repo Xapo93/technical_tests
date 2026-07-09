@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/N/ogxT8c4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xapo9\\Documents\\Telus\\Telus.Api\\Telus.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xapo9\\AppData\\Local\\Temp\\cursor-sandbox-cache\\88a7a15df8aea354c2a2e053baa1c76f\\nuget\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\xapo9\\AppData\\Local\\Temp\\cursor-sandbox-cache\\88a7a15df8aea354c2a2e053baa1c76f\\nuget\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\xapo9\\Documents\\Telus\\Telus.Api\\Telus.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\xapo9\\Documents\\Telus\\Telus.Api\\Telus.Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
